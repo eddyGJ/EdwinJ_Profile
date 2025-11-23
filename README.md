@@ -102,16 +102,6 @@ This repository contains my professional portfolio website built with:
 - **Structure**: Multi-page site (Home, Projects showcase)
 - **Deployment**: GitHub Pages
 
-### Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/eddyGJ/EdwinJ_Profile.git
-
-# Open in browser
-open index.html
-```
-
 ---
 
 *"I don't just plan—I execute. With deep expertise in AI and digital transformation, I build products that matter."*
