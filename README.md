@@ -77,8 +77,8 @@ Financial Services • Energy Sector • Wealth Management • Investment Platfo
 ## 📊 Career Highlights
 
 - 📈 **15+ years** in IT across 5 distinct roles
-- 🌏 **4 global markets** (Australia, New Zealand, Dubai, India)
-- 🏢 Delivered solutions for **Vanguard, NAB, JBWere, Alinta Energy, Fidelity, Infosys**
+- 🌏 **4 Global markets** (Australia, USA, Dubai, India)
+- 🏢 Delivered solutions for **Vanguard, NAB, JBWere, Alinta Energy, Fidelity Investments, Infosys**
 - 🎓 **Masters in Management** from University of Bath, UK
 
 ---
