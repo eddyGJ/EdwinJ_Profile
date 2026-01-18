@@ -27,6 +27,7 @@ Product Leader and Senior Business Analyst with 15+ years of experience deliveri
 ### Featured Enterprise Projects
 
 #### 🏦 **JBWere Client Portal**
+- **Lead Business Analyst**
 - Led remediation of one of NAB's highest at-risk projects under SCRR program
 - Delivered customer-facing mobile-first wealth management platform
 - [View Platform →](https://my.jbwere.com.au/login)
@@ -47,8 +48,8 @@ Product Leader and Senior Business Analyst with 15+ years of experience deliveri
 
 ### Live Projects
 
-**[Edora Photo Studio](https://edora-photo-studio.vercel.app/)** `Gemini 2.0 Flash` `React` `AI Image Processing`  
-AI-powered image transformation app for professional product and portrait photography. Features batch processing, dual photography modes, and glassmorphism UI.
+**[Edora Tech](https://edora-tech.vercel.app/)** `Web Development` `Portfolio` `Digital Brand`  
+My personal portfolio website and digital innovation lab showcasing professional projects, expertise, and experiments in technology.
 
 **George & Rubaih Trading Co.** `Next.js 15` `TypeScript` `E-commerce` *(Coming Soon)*  
 Complete digital transformation for Dubai-based industrial printing supplies distributor. Modern e-commerce platform with product catalog, quote system, and technical knowledge hub.
@@ -77,8 +78,8 @@ Financial Services • Energy Sector • Wealth Management • Investment Platfo
 ## 📊 Career Highlights
 
 - 📈 **15+ years** in IT across 5 distinct roles
-- 🌏 **4 Global markets** (Australia, USA, Dubai, India)
-- 🏢 Delivered solutions for **Vanguard, NAB, JBWere, Alinta Energy, Fidelity Investments, Infosys**
+- 🌏 **4 global markets** (Australia, New Zealand, Dubai, India)
+- 🏢 Delivered solutions for **Vanguard, NAB, JBWere, Alinta Energy, Fidelity, Infosys**
 - 🎓 **Masters in Management** from University of Bath, UK
 
 ---
@@ -101,6 +102,16 @@ This repository contains my professional portfolio website built with:
 - **Design**: Executive tech aesthetic with glassmorphism and micro-interactions
 - **Structure**: Multi-page site (Home, Projects showcase)
 - **Deployment**: GitHub Pages
+
+### Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/eddyGJ/EdwinJ_Profile.git
+
+# Open in browser
+open index.html
+```
 
 ---
 
